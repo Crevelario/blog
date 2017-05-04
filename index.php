@@ -27,7 +27,7 @@ a:active {
 <body>
 <?php 
 include_once("paginação.php");
-include_once("cadastrando.php");
+include_once("postando.php");
 
 
 
@@ -49,7 +49,7 @@ include_once("cadastrando.php");
 </nav>
 </header>
 <nav>
-<form method="post" enctype="multipart/form-data">
+<form method="post" enctype="multipart/form-data" action="postando.php">
   <p><br>
     <br>TItulo:<br>
     <input type="text" name="titulo" id="titulo" placeholder="Escreva seu titulo" />
