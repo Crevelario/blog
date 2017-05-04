@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+	body{
+		background-color:#BFBFBF;
+		
+		
+		
+		}
+	
+	
+	#menu_align{
+		color:#FFFFFF;
+		line-height:50px;
+		margin:0 auto 0 auto;
+		background-color:#898989;
+	
+	width:720px;
+	height:75px;
+	padding:10px
+		
+		}
+		#menu_align ul {
+		 font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;	
+			font-size:16px;
+			list-style-size:none;
+			float:left;
+			position:relative;
+			padding:10px 10px;
+			border-top:1px solid #CCC;
+	  border-bottom:1px solid #CCC;
+	 }
+			
+			
+			#meu_align ul li {
+				float:left;
+				positon:relative;
+				
+				}
+				menu_align ul li a{
+					text-decoration:none;
+					padding:5px 5px 5px;
+					margin:5px auto 5px auto;
+					display:block;}
+
+input[type=text]{
+	float:left;
+	
+	
+	}
+	#titulo{
+		width:350px;
+		height:25px;
+		
+		}
+	#conteudo{
+		width:350px;
+		height:350px;		
+		}
+	#autor{
+		width:350px;
+		height:25px;
+		}
+		#post{width:110px;
+		height:50px;
+		font-size:16px;
+		}
+		
+		
